@@ -11,7 +11,7 @@
 -   이름: 이태희
 -   소속: 한신대학교 자유전공학부
 -   관심 분야: [웹 개발, AI.SW]
--   메일: olxoeee@hs.ac.kr
+-   메일: olxoeee@hs.ac.kr, taehui0411@gmail.com
 
 
 
