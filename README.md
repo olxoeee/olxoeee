@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=waving&color=pink&height=300&section=header&text=--<3%20to%20see%20you%20%F0%9F%A4%97)
 
 # 👋 안녕하세요, 이태희입니다!
 
