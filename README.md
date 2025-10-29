@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:FF4F9A&height=300&section=header&text=Good%20to%20see%20you%20![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:FF4F9A&height=300&section=header&text=💗Good%20to%20see%20you%20💗&fontSize=40)
-&fontSize=60)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:FF4F9A&height=300&section=header&text=Good%20to%20see%20you%20💗&fontSize=50)
 
 # 👋 안녕하세요, 이태희입니다!
 
