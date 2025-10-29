@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+
 # 👋 안녕하세요, 이태희입니다!
 
 ## 👨‍💻 About Me
